@@ -1,7 +1,7 @@
 ﻿<?php
 /*
 * Plugin Name: ERT Recent Custom Posts
-* Plugin URI: https://github.com/ertyazilim/
+* Plugin URI: https://github.com/ertyazilim/ERT-Recent-Posts-For-Custom-Post-Types-WordPress-Plugin
 * Description: This plugin, allows you to insert a "Recent Posts" widget in sidebar for your custom posts. İt includes date, category and thumbnail display options. Simple and easy to use. Thanks for using.
 * Author: Barış ERTUĞRUL
 * Version: 1.0
